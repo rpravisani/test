@@ -14,7 +14,7 @@ include '../core/required.php';
 	
 	<h1>Homepage</h1>
 	
-	<h2><?php sayHello(); ?></h2>
+	<h3><?php sayHello(); ?></h3>
 	
 	<p>Result: <?php echo test(2,4); ?></p>
 	
