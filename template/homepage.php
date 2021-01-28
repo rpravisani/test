@@ -1,4 +1,5 @@
 <?php
+// include core files
 include '../core/variables.php';
 include '../core/required.php';
 ?>
