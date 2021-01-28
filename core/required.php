@@ -12,7 +12,7 @@ function sayHello(){
 	echo "Hello";
 }
 
-fucntion saySaionara(){
-	echo "Saionara Muddafacker";
+fucntion saySayonara(){
+	echo "Sayonara Muddafacker";
 }
 ?>
