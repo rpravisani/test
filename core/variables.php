@@ -5,5 +5,6 @@ $debug = true;
 $url = "https://prova.it";
 $max_rows = 10;
 $max_width = 190;
+$lang = "it";
 
 ?>
