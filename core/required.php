@@ -13,6 +13,6 @@ function sayHello(){
 }
 
 function saySayonara(){
-	echo "Sayonara Muddafacker";
+	echo "Sayonara Moddafockaaaah";
 }
 ?>
