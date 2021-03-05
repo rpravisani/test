@@ -9,7 +9,7 @@ function prova($arg1 = 1, $arg2 = 0){
 }
 
 function sayHello(){
-	echo "Hello Julius!";
+	echo "Hello Mr Bond...";
 }
 
 function saySayonara(){
