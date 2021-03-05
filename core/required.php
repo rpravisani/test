@@ -15,4 +15,8 @@ function sayHello(){
 function saySayonara(){
 	echo "Sayonara Moddafockaaaah!!";
 }
+
+function sayBuongiorno(){
+	echo "Buongiorno!";
+}
 ?>
